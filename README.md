@@ -2,6 +2,8 @@
 
 In this project, I implemented a graph to perform such algorithms as Dijkstra's and shortest path on data for the University of Rochester, Monroe County, and New York state.
 
+(monroe.txt and nys.txt too large to upload.)
+
 TEST CLASS (THE MEAT):
 
 To begin, I began by reading in the in the data line by line and storing it either as a vertex (intersections) or
